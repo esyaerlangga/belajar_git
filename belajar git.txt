@@ -1,3 +1,5 @@
 1. belajar git 001
 2.
 3.
+4. repository
+5. test 002
